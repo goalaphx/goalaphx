@@ -31,6 +31,7 @@
 - 💡 BTW its written in French so for English Speakers RIP 💀 <br>
 
 <p style="display:inline-block;">
+  
 - 🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character
 <img src="https://media.tenor.com/4uHbal0If_wAAAAj/super-sonic-sonic-the-hedgehog.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 190px; height: 175px; margin: 0px; width: 190px;" alt="Super Super Sonic GIFs | Tenor" jsname="kn3ccd" data-ilt="1707616502867">
 <img src="https://i.pinimg.com/originals/61/7b/ed/617bed8483f55379027d997a32b00337.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 400px; height: 265px; margin: 0px; width: 353px;" alt="Image result for Thank you your rock | Funny thank you, Thank you gifs, I  thank you" jsname="kn3ccd" data-ilt="1707616551432">
