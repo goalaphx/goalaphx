@@ -33,12 +33,12 @@
 
 <p style="display: grid;
  align-items: center; 
- grid-template-columns: 50px 1fr;;
+ grid-template-columns: 50px 1fr; /* Allocate 50px for the image and the rest for the text */
  column-gap: 5px;">
   
-- 🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87599904-e193-4b75-a519-b5ee2820e856/dg9fr2a-a2c81abc-a10a-46ed-bf45-016982929079.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3NTk5OTA0LWUxOTMtNGI3NS1hNTE5LWI1ZWUyODIwZTg1NlwvZGc5ZnIyYS1hMmM4MWFiYy1hMTBhLTQ2ZWQtYmY0NS0wMTY5ODI5MjkwNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xDRzZaji22fmwUpZ_D3j8CF1zTLt7FGzsT8ulD2MQaI" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 500px; height: 50px; margin: 0px; width: 50px;" alt="Big ring gif by foxeygamer87sonic on DeviantArt" jsname="kn3ccd" data-ilt="1707663815479">
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87599904-e193-4b75-a519-b5ee2820e856/dg9fr2a-a2c81abc-a10a-46ed-bf45-016982929079.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3NTk5OTA0LWUxOTMtNGI3NS1hNTE5LWI1ZWUyODIwZTg1NlwvZGc5ZnIyYS1hMmM4MWFiYy1hMTBhLTQ2ZWQtYmY0NS0wMTY5ODI5MjkwNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xDRzZaji22fmwUpZ_D3j8CF1zTLt7FGzsT8ulD2MQaI" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 500px; height: 50px; margin: 0px; width: 50px;" alt="Big ring gif by foxeygamer87sonic on DeviantArt" jsname="kn3ccd" data-ilt="1707663815479">
+  <span style="white-space: nowrap;">🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character</span>
 
 </p>
 
