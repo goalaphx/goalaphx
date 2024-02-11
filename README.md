@@ -31,7 +31,10 @@
 
 - 💡 BTW its written in French so for English Speakers RIP 💀 <br>
 
-<p style="display:inline-block;">
+<p style="display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px">
   
 - 🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character
 
