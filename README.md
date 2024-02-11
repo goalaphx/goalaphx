@@ -25,6 +25,7 @@
   <img src="https://art.pixilart.com/sr2f17a1b056307.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 200px;" alt="GIFs by Sonic983 - Pixilart" jsname="kn3ccd" data-ilt="1707615368121">
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 300px; margin: 0px; width: 250px;" alt="Sonic GIFs - Get the best gif on GIFER" jsname="kn3ccd" data-iml="2438.2999999970198">
 </p>
+
 - 💓 To learn more about me please take a look at my CV: <a href="file:///C:/Users/dell/Desktop/CV%20PDF.pdf" download>Click Here</a> <br>
 
 - 💡 BTW its written in French so for English Speakers RIP 💀 <br>
