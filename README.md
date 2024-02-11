@@ -23,7 +23,8 @@
 <p float="left">
 <img src="https://i.pinimg.com/originals/40/07/5f/40075f4483a0428c5f3557bcba99059b.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 200px;" alt="Sonic Run GIF - Sonic Run Speed - Discover &amp; Share GIFs | Naruto gif, Sonic,  Running gif" jsname="kn3ccd" data-ilt="1707615227670"> 
   <img src="https://art.pixilart.com/sr2f17a1b056307.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 200px;" alt="GIFs by Sonic983 - Pixilart" jsname="kn3ccd" data-ilt="1707615368121">
-<img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 300px; margin: 0px; width: 250px;" alt="Sonic GIFs - Get the best gif on GIFER" jsname="kn3ccd" data-iml="2438.2999999970198">
+<img src="https://media.tenor.com/4uHbal0If_wAAAAj/super-sonic-sonic-the-hedgehog.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 190px; height: 175px; margin: 0px; width: 190px;" alt="Super Super Sonic GIFs | Tenor" jsname="kn3ccd" data-ilt="1707616502867">
+<img src="https://i.pinimg.com/originals/61/7b/ed/617bed8483f55379027d997a32b00337.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 400px; height: 265px; margin: 0px; width: 353px;" alt="Image result for Thank you your rock | Funny thank you, Thank you gifs, I  thank you" jsname="kn3ccd" data-ilt="1707616551432">
 </p>
 
 - 💓 To learn more about me please take a look at my CV: <a href="https://drive.google.com/file/d/1FqgyZh_SbcNN_HIg9suoFOD5JWCli6rp/view" download>Click Here</a> <br>
@@ -33,6 +34,5 @@
 <p style="display:inline-block;">
   
 - 🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character
-<img src="https://media.tenor.com/4uHbal0If_wAAAAj/super-sonic-sonic-the-hedgehog.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 190px; height: 175px; margin: 0px; width: 190px;" alt="Super Super Sonic GIFs | Tenor" jsname="kn3ccd" data-ilt="1707616502867">
-<img src="https://i.pinimg.com/originals/61/7b/ed/617bed8483f55379027d997a32b00337.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 400px; height: 265px; margin: 0px; width: 353px;" alt="Image result for Thank you your rock | Funny thank you, Thank you gifs, I  thank you" jsname="kn3ccd" data-ilt="1707616551432">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvRIzr6RXFz1Teu-DE9r3bFn75dgHauDE04s98BkABg&amp;s" jsaction="VQAsE" class="sFlh5c pT0Scc" alt="Sonic Ring Sonic Sticker - Sonic Ring Sonic Spinning ..." jsname="JuXqh" style="max-width: 320px; height: 320px; margin: 0px; width: 320px;" data-ilt="1707663707675">
 </p>
