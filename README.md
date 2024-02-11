@@ -21,9 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goalaphx&show_icons=true&theme=merko&title_color=e00b0b&text_color=1b0bf9&bg_color=e1ff00&locale=en" alt="goalaphx" /></p>
 <center><img " src="https://i.imgur.com/1F7lGS7.gif"/></center>
 <p float="left">
-<img src="https://i.pinimg.com/originals/40/07/5f/40075f4483a0428c5f3557bcba99059b.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 200px;" alt="Sonic Run GIF - Sonic Run Speed - Discover &amp; Share GIFs | Naruto gif, Sonic,  Running gif" jsname="kn3ccd" data-ilt="1707615227670"> 
-  <img src="https://art.pixilart.com/sr2f17a1b056307.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 200px;" alt="GIFs by Sonic983 - Pixilart" jsname="kn3ccd" data-ilt="1707615368121">
-<img src="https://media.tenor.com/4uHbal0If_wAAAAj/super-sonic-sonic-the-hedgehog.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 190px; height: 250px; margin: 0px; width: 200px;" alt="Super Super Sonic GIFs | Tenor" jsname="kn3ccd" data-ilt="1707616502867">
+<img src="https://i.pinimg.com/originals/40/07/5f/40075f4483a0428c5f3557bcba99059b.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 225px;" alt="Sonic Run GIF - Sonic Run Speed - Discover &amp; Share GIFs | Naruto gif, Sonic,  Running gif" jsname="kn3ccd" data-ilt="1707615227670"> 
+  <img src="https://art.pixilart.com/sr2f17a1b056307.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 250px; margin: 0px; width: 225px;" alt="GIFs by Sonic983 - Pixilart" jsname="kn3ccd" data-ilt="1707615368121">
+<img src="https://media.tenor.com/4uHbal0If_wAAAAj/super-sonic-sonic-the-hedgehog.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 190px; height: 250px; margin: 0px; width: 225px;" alt="Super Super Sonic GIFs | Tenor" jsname="kn3ccd" data-ilt="1707616502867">
 
 </p>
 
@@ -35,7 +35,7 @@
   
 - 🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87599904-e193-4b75-a519-b5ee2820e856/dg9fr2a-a2c81abc-a10a-46ed-bf45-016982929079.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3NTk5OTA0LWUxOTMtNGI3NS1hNTE5LWI1ZWUyODIwZTg1NlwvZGc5ZnIyYS1hMmM4MWFiYy1hMTBhLTQ2ZWQtYmY0NS0wMTY5ODI5MjkwNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xDRzZaji22fmwUpZ_D3j8CF1zTLt7FGzsT8ulD2MQaI" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 500px; height: 150px; margin: 0px; width: 150px;" alt="Big ring gif by foxeygamer87sonic on DeviantArt" jsname="kn3ccd" data-ilt="1707663815479">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87599904-e193-4b75-a519-b5ee2820e856/dg9fr2a-a2c81abc-a10a-46ed-bf45-016982929079.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3NTk5OTA0LWUxOTMtNGI3NS1hNTE5LWI1ZWUyODIwZTg1NlwvZGc5ZnIyYS1hMmM4MWFiYy1hMTBhLTQ2ZWQtYmY0NS0wMTY5ODI5MjkwNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xDRzZaji22fmwUpZ_D3j8CF1zTLt7FGzsT8ulD2MQaI" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 500px; height: 50px; margin: 0px; width: 50px;" alt="Big ring gif by foxeygamer87sonic on DeviantArt" jsname="kn3ccd" data-ilt="1707663815479">
 
 </p>
 
