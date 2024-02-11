@@ -21,6 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goalaphx&show_icons=true&theme=merko&title_color=e00b0b&text_color=1b0bf9&bg_color=e1ff00&locale=en" alt="goalaphx" /></p>
 <img src="https://i.imgur.com/1F7lGS7.gif"/>
 <p float="left">
-<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/40/07/5f/40075f4483a0428c5f3557bcba99059b.gif" width:200; height:200> 
-<img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 200px; margin: 0px; width: 200px;" alt="Sonic GIFs - Get the best gif on GIFER" jsname="kn3ccd" data-iml="2438.2999999970198">
+<img src="https://i.pinimg.com/originals/40/07/5f/40075f4483a0428c5f3557bcba99059b.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 432px; height: 400px; margin: 0px; width: 350px;" alt="Sonic Run GIF - Sonic Run Speed - Discover &amp; Share GIFs | Naruto gif, Sonic,  Running gif" jsname="kn3ccd" data-ilt="1707615227670"> 
+<img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 432px; height: 400px; margin: 0px; width: 350px;" alt="Sonic GIFs - Get the best gif on GIFER" jsname="kn3ccd" data-iml="2438.2999999970198">
 </p>
