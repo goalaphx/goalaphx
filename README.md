@@ -26,7 +26,7 @@
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 250px; height: 300px; margin: 0px; width: 250px;" alt="Sonic GIFs - Get the best gif on GIFER" jsname="kn3ccd" data-iml="2438.2999999970198">
 </p>
 
-- 💓 To learn more about me please take a look at my CV: <a href="[file:///C:/Users/dell/Desktop/CV%20PDF.pdf](https://drive.google.com/file/d/1FqgyZh_SbcNN_HIg9suoFOD5JWCli6rp/view?usp=sharing)" download>Click Here</a> <br>
+- 💓 To learn more about me please take a look at my CV: <a href="https://drive.google.com/file/d/1FqgyZh_SbcNN_HIg9suoFOD5JWCli6rp/view" download>Click Here</a> <br>
 
 - 💡 BTW its written in French so for English Speakers RIP 💀 <br>
 
