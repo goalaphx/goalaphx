@@ -33,7 +33,7 @@
 
 <p style="display: grid;
  align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
+ grid-template-columns: 50px 1fr;;
  column-gap: 5px;">
   
 - 🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character
