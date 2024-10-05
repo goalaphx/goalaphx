@@ -29,11 +29,7 @@
 
 - 💓 To learn more about me please take a look at my CV: <a href="https://drive.google.com/file/d/1FqgyZh_SbcNN_HIg9suoFOD5JWCli6rp/view" download>Click Here</a> <br>
 
-- 💡 BTW its written in French so for English Speakers RIP 💀 <br>
+
 
 <div style="display: flex; align-items: center;">
-    <span style="white-space: nowrap;">🦔🌪️ Also you can probably guess Sonic is my favourite Video Game 🎮 Character</span>
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87599904-e193-4b75-a519-b5ee2820e856/dg9fr2a-a2c81abc-a10a-46ed-bf45-016982929079.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3NTk5OTA0LWUxOTMtNGI3NS1hNTE5LWI1ZWUyODIwZTg1NlwvZGc5ZnIyYS1hMmM4MWFiYy1hMTBhLTQ2ZWQtYmY0NS0wMTY5ODI5MjkwNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xDRzZaji22fmwUpZ_D3j8CF1zTLt7FGzsT8ulD2MQaI" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 500px; height: 50px; margin-left: 5px;" alt="Big ring gif by foxeygamer87sonic on DeviantArt" jsname="kn3ccd" data-ilt="1707663815479">
-</div>
-
-<img src="https://i.pinimg.com/originals/61/7b/ed/617bed8483f55379027d997a32b00337.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" align="center" style=" max-width: 400px; height: 265px; margin: 0px; width: 353px;" alt="Image result for Thank you your rock | Funny thank you, Thank you gifs, I  thank you" jsname="kn3ccd" data-ilt="1707616551432">
+   
