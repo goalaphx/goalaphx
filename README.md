@@ -19,7 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goalaphx&show_icons=true&theme=radical&title_color=cd0e0e&text_color=4b17d9&bg_color=e5ff24&locale=en&layout=compact" alt="goalaphx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goalaphx&show_icons=true&theme=merko&title_color=e00b0b&text_color=1b0bf9&bg_color=e1ff00&locale=en" alt="goalaphx" /></p>
-<center><img " src="https://i.imgur.com/1F7lGS7.gif"/></center>
+
 <p float="left">
 
 
