@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
 <h3 align="center">a Software Engineering Student from Morocco</h3>
 
-- 🌱 I’m currently learning **Unity,Java and PHP**
+- 🌱 I’m currently learning **Spring & Angular**
 
 - 📫 How to reach me **mehdiidlehcen123@gmail.com**
 
