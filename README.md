@@ -24,7 +24,7 @@
 
 </p>
 
-- 💓 To learn more about me please take a look at my CV: <a href="https://drive.google.com/file/d/14pnqYuFuWNTjHk75RVwWgwSFm4wttKOH/view" download>Click Here</a> <br>
+- 💓 To learn more about me please take a look at my CV: <a href="https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view" download>Click Here</a> <br>
 
 
 
