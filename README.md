@@ -15,7 +15,7 @@
 📧 **mehdiidlehcen123@gmail.com**
 
 ### 📄 My CV:
-**Click Me(https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view)**
+[📎 Click Here to View My CV](https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view)
 
 ---
 
@@ -39,7 +39,7 @@
 ### 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=goalaphx&theme=dark&hide_border=false&border_radius=5"/>
+  <img src="https://streak-stats.demolab.com?user=goalaphx&theme=tokyonight&hide_border=false&border_radius=5"/>
 </p>
 
 ---
@@ -52,14 +52,12 @@
 
 ---
 
+### 🐍 Watch My Contributions Snake!
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/goalaphx/goalaphx/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-<h4 align="center">Thank you for visiting! Let's connect and build something amazing 🚀</h4>
+<h4 align="center">Thanks for stopping by! Let's connect and create something awesome 🚀💡</h4>
