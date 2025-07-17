@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Software+Engineering+Student;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Always+building+and+learning!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
 <h3 align="center">🚀 Software Engineering Student from Morocco 🇲🇦</h3>
 
