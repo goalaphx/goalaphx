@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
 <h3 align="center">a Software Engineering Student from Morocco</h3>
 
-- 🌱 I’m currently learning **Spring & Angular**
-
 - 📫 How to reach out to me **mehdiidlehcen123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
