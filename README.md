@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
 <h3 align="center">a Software Engineering Student from Morocco</h3>
 
-- 📫 How to reach out to me **mehdiidlehcen123@gmail.com**
+- 📫 reach out to me via this email: **mehdiidlehcen123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
