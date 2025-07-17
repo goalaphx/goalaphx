@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+El+Mahdi+ID+LAHCEN;CS+Student+from+Morocco;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
 <h3 align="center">🚀 Engineering Student & Developer from Morocco 🇲🇦</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+building+cool+software;Always+learning+and+sharing+🚀" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/idlahcenmahdi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
