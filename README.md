@@ -26,7 +26,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,php,cpp,csharp,react,nextjs,nodejs,vue,angular,bootstrap,tailwind,androidstudio,mysql,postgres,docker,git,linux,laravel,symfony,qt,spring,oracle,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,react,nextjs,nodejs,vue,bootstrap,tailwind,mysql,postgres,docker,git,linux,laravel,qt,sqlite,postman" />
 </p>
 
 ---
@@ -56,4 +56,21 @@
 
 ---
 
-<h4 align="center">Thanks for visiting! Let's connect and build something amazing 💡🚀</h4>
+### 🎮 Just for Fun!
+
+> Play a mini game while you're here!
+
+<p align="center">
+  <a href="https://elmahdi-dino.netlify.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/ElMahdi-idlahcen/elmahdi-dino/main/preview.gif" width="500" alt="Click to play Dino Game" />
+  </a>
+  <br/>
+  <a href="https://elmahdi-dino.netlify.app" target="_blank">
+    ▶️ Play the Dino Game Here
+  </a>
+</p>
+
+---
+
+<h4 align="center">Thanks for visiting! Let’s connect and build something awesome 🚀</h4>
+
