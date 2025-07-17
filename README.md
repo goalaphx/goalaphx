@@ -26,7 +26,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,php,cpp,csharp,react,nextjs,nodejs,vue,angular,bootstrap,tailwind,androidstudio,mysql,postgres,docker,git,linux,laravel,qt,spring,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,php,cpp,cs,react,nextjs,nodejs,vue,angular,bootstrap,tailwind,androidstudio,mysql,postgres,docker,git,linux,laravel,qt,spring,sqlite,postman" />
 </p>
 
 ---
