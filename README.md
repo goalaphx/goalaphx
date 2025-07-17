@@ -14,7 +14,8 @@
 
 📧 **mehdiidlehcen123@gmail.com**
 
-📄 [Click here to view my CV](https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view)
+### 📄 My CV:
+**https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view)**
 
 ---
 
