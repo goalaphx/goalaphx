@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+El+Mahdi+ID+LAHCEN;CS+Student+from+Morocco;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
-<h3 align="center">🚀 Software Engineering Student | Passionate about building, learning & improving</h3>
+<h3 align="center">🚀 Engineering Student & Developer from Morocco 🇲🇦</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+building+cool+software;Always+learning+and+sharing+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://twitter.com/idlahcenmahdi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
@@ -19,14 +19,14 @@
 📧 **mehdiidlehcen123@gmail.com**
 
 ### 📄 My CV:
-[📎 Click Here to View My CV](https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view)
+[**Click Me**](https://drive.google.com/file/d/16Rmy95kdd9Eotgaoft6CtOmYkTRWm8tk/view)
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,react,nextjs,nodejs,vue,bootstrap,tailwind,mysql,postgres,docker,git,linux,laravel,qt,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,php,cpp,csharp,react,nextjs,nodejs,vue,angular,bootstrap,tailwind,androidstudio,mysql,postgres,docker,git,linux,laravel,qt,spring,sqlite,postman" />
 </p>
 
 ---
@@ -40,10 +40,10 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goalaphx&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=goalaphx&theme=dark&hide_border=false&border_radius=5"/>
 </p>
 
 ---
@@ -56,21 +56,14 @@
 
 ---
 
-### 🎮 Just for Fun!
+### 🐍 GitHub Snake Game
 
-> Play a mini game while you're here!
+> Watch your contributions become a game!
 
 <p align="center">
-  <a href="https://elmahdi-dino.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/ElMahdi-idlahcen/elmahdi-dino/main/preview.gif" width="500" alt="Click to play Dino Game" />
-  </a>
-  <br/>
-  <a href="https://elmahdi-dino.netlify.app" target="_blank">
-    ▶️ Play the Dino Game Here
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<h4 align="center">Thanks for visiting! Let’s connect and build something awesome 🚀</h4>
-
+<h4 align="center">Thanks for stopping by! Let's build something together 🚀</h4>
