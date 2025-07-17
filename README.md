@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Software+Engineering+Student;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Always+building+and+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+El+Mahdi+ID+LAHCEN;CS+Student+from+Morocco;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm El Mahdi ID LAHCEN</h1>
-<h3 align="center">🚀 Software Engineering Student from Morocco 🇲🇦</h3>
+<h3 align="center">🚀 Software Engineering Student | Passionate about building, learning & improving</h3>
 
 <p align="center">
   <a href="https://twitter.com/idlahcenmahdi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
@@ -40,10 +40,10 @@
 
 ---
 
-### 🔥 Contribution Activity
+### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=goalaphx&theme=tokyonight&hide_border=false&border_radius=5"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goalaphx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,12 +56,4 @@
 
 ---
 
-### 🐍 Watch My Contributions Snake!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/goalaphx/goalaphx/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<h4 align="center">Thanks for stopping by! Let's connect and create something awesome 🚀💡</h4>
+<h4 align="center">Thanks for visiting! Let's connect and build something amazing 💡🚀</h4>
