@@ -58,7 +58,7 @@
 
 ---
 
-### Watch this Snake do somme stuff
+### Watch this Snake do some stuff
 
 
 <p align="center">
